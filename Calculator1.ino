@@ -1,7 +1,7 @@
 /*
   AJM Apr 2022
 
-  -- First attempt at a "Calculator application"
+  -- First attempt at a "Calculator application with keyboard and 7 segment display"
   --
   --
   -- Display :
